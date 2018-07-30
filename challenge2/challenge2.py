@@ -53,4 +53,4 @@ def sort_csv(filename, output_filename):
                 csv_writer.writerow(line)
 
 if __name__ == '__main__':
-    sort_csv('random_data.csv', 'random_data_sorted.csv')
+    sort_csv('large_data.csv', 'large_data_sorted.csv')
