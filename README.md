@@ -1,7 +1,7 @@
 # code-challenge
 
 # Usage
-To run the first challenge and its unittest you need to type `python challeng1.py` and 
+To run the first challenge and its unittest you need to type `python challenge1.py` and 
 `python challenge1Test.py` in your terminal window respectively.
 
 To run the second challenge and its unittest you need to type `python challenge2.py` and
